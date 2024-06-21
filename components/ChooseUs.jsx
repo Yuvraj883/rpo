@@ -1,7 +1,7 @@
 const ChooseUs = ()=>{
   return(
     <>
-    <div>
+    <div className="bg-white">
       <h1 className="text-center text-4xl  bg-white font-bold py-8 text-red-700">Why Choose Us? </h1>
     <div className="md:grid md:grid-cols-3 flex-col gap-6 m-0 md:px-12 bg-white md:py-6">
 
